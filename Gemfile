@@ -32,6 +32,8 @@ gem 'jbuilder', '~> 1.2'
 # gem 'prawn', '~> 0.14.0'
 # gem 'prawnto_2', '~>0.2.6'
 gem "prawnto", '~> 0.1.1'
+gem 'prawn'
+gem 'prawn-layout'
 
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
